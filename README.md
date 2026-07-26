@@ -22,9 +22,8 @@ Quietly creating solutions that speak for themselves."</i>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
-<img align="right" width="320" alt="Swaroop"
-src="https://raw.githubusercontent.com/swarooppoojary/swarooppoojary/main/assets/profile.jpg"/>
 
+src="https://raw.githubusercontent.com/swarooppoojary/swarooppoojary/main/assets/profile.jpg"/>
 ---
 
 <img align="right" width="320" src="assets/profile.png">
