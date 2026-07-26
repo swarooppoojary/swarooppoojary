@@ -23,7 +23,6 @@ Quietly creating solutions that speak for themselves."</i>
 </a>
 </p>
 
-src="https://raw.githubusercontent.com/swarooppoojary/swarooppoojary/main/assets/profile.jpg"/>
 ---
 
 <img align="right" width="320" src="assets/profile.png">
