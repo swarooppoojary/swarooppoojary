@@ -22,7 +22,8 @@ Quietly creating solutions that speak for themselves."</i>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
-<img src="https://www.daz3d.com/tma-kade-genesis-9">
+<img align="right" width="320" alt="Swaroop"
+src="https://raw.githubusercontent.com/swarooppoojary/swarooppoojary/main/assets/profile.jpg"/>
 
 ---
 
