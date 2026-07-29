@@ -109,7 +109,7 @@ I enjoy solving real-world business problems using data analysis, visualization,
 <div align="center">
 
 <a href="YOUR_REPO_LINK">
-<img width="700" src="YOUR_PROJECT_IMAGE"/>
+<img width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnRmeWc1eXBlbmkwZTIzZWIwN2Z6YmptMmVpNDdqdXg5b3JuNjh5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tEQl8OrDFBea0LmvoT/giphy.gif"/>
 </a>
 
 ### 📊 Brazil E-Commerce Analytics
