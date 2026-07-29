@@ -17,7 +17,7 @@
 
 
 
-<img align="right" width="420" alt="Cyber AI Hero" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHN3czZ3aWd3eTZiaWkyZ2hwejAzdjM5ZnFkdGlqZnZ1aG1ybjl3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif">
+<img align="right" width="370" alt="Cyber AI Hero" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHN3czZ3aWd3eTZiaWkyZ2hwejAzdjM5ZnFkdGlqZnZ1aG1ybjl3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 ```python
 class SwaroopPoojary:
