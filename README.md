@@ -124,7 +124,7 @@ I enjoy solving real-world business problems using data analysis, visualization,
 
 </p>
 
-<a href="YOUR_REPO_LINK">
+<a href="[YOUR_REPO_LINK](https://console.cloud.google.com/bigquery?authuser=2&project=sql-target-project-503406&ws=!1m8!1m7!12m5!1m3!1ssql-target-project-503406!2sus-central1!3scf4c9aa7-7b3a-4303-90c1-cd258e47f49f!2e1!23sRECENT_RESOURCES)">
 <img src="https://img.shields.io/badge/🚀_View_Project-2962FF?style=for-the-badge"/>
 </a>
 
