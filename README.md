@@ -132,30 +132,29 @@ I enjoy solving real-world business problems using data analysis, visualization,
 
 ---
 
+<div align="center">
+
 <a href="YOUR_REPO_LINK">
-<img width="700" src="YOUR_PROJECT_IMAGE"/>
+  <img width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2N3p4MDBjeHJnanhxdjE1dml3a2o1M2VyZGpteHR1ZmloOTRkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dRlbbGg0ipTuAngC10/giphy.gif" alt="Cart Vision GIF"/>
 </a>
 
-### 📈 Power BI Dashboard
+### 📈 Cart-Vision: Unlocking Customer Purchase Patterns
 
 > Interactive dashboard providing KPIs, sales performance, and business insights.
 
 <p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/DAX-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Dashboard-00C853?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/DAX-FF9800?style=for-the-badge" alt="DAX Badge"/>
+  <img src="https://img.shields.io/badge/Dashboard-00C853?style=for-the-badge" alt="Dashboard Badge"/>
 </p>
 
 <a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/🚀_View_Project-2962FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀_View_Project-2962FF?style=for-the-badge" alt="View Project Badge"/>
 </a>
 
 </div>
-
 ---
 
 # 📖 Current Learning Journey
