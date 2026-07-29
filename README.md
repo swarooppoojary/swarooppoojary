@@ -135,7 +135,7 @@ I enjoy solving real-world business problems using data analysis, visualization,
 <div align="center">
 
 <a href="YOUR_REPO_LINK">
-  <img width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2N3p4MDBjeHJnanhxdjE1dml3a2o1M2VyZGpteHR1ZmloOTRkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dRlbbGg0ipTuAngC10/giphy.gif" alt="Cart Vision GIF"/>
+  <img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2N3p4MDBjeHJnanhxdjE1dml3a2o1M2VyZGpteHR1ZmloOTRkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dRlbbGg0ipTuAngC10/giphy.gif" alt="Cart Vision GIF"/>
 </a>
 
 ### 📈 Cart-Vision: Unlocking Customer Purchase Patterns
@@ -150,7 +150,7 @@ I enjoy solving real-world business problems using data analysis, visualization,
   <img src="https://img.shields.io/badge/Dashboard-00C853?style=for-the-badge" alt="Dashboard Badge"/>
 </p>
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/swarooppoojary/Cart-Vision-Unlocking-customer-purchase-pattern">
   <img src="https://img.shields.io/badge/🚀_View_Project-2962FF?style=for-the-badge" alt="View Project Badge"/>
 </a>
 
