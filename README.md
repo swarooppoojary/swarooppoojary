@@ -174,7 +174,7 @@ I enjoy solving real-world business problems using data analysis, visualization,
   <img src="https://img.shields.io/badge/Computer_Vision-00C7FF?style=for-the-badge" alt="Computer Vision Badge"/>
 </p>
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/swarooppoojary/-Deep-Learning-Based-Classification-of-Areca-Nut-Yellow-Leaf-Disease-using-ResNet-50-CNN">
   <img src="https://img.shields.io/badge/🚀_View_Project-2962FF?style=for-the-badge" alt="View Project Badge"/>
 </a>
 
