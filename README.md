@@ -154,6 +154,32 @@ I enjoy solving real-world business problems using data analysis, visualization,
   <img src="https://img.shields.io/badge/🚀_View_Project-2962FF?style=for-the-badge" alt="View Project Badge"/>
 </a>
 
+---
+
+<div align="center">
+
+<a href="YOUR_REPO_LINK">
+  <img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R1dmlwMHEweXR6NzR4bnB2MG9xYWE0bGlpczVza3BxbDUyODRuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RM4a0KXz5ciB5n73TZ/giphy.gif" alt="Areca Nut Disease Detection GIF"/>
+</a>
+
+### 🌴 Deep Learning-Based Classification of Areca Nut Yellow Leaf Disease using ResNet-50 CNN
+
+> Automated plant disease classification system leveraging **ResNet-50**, **OpenCV**, and **Convolutional Neural Networks** to identify yellow leaf disease from camera/drone video streams and trigger automated agricultural responses.
+
+<p>
+  <img src="https://img.shields.io/badge/ResNet--50-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ResNet-50 Badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning Badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-00C7FF?style=for-the-badge" alt="Computer Vision Badge"/>
+</p>
+
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/🚀_View_Project-2962FF?style=for-the-badge" alt="View Project Badge"/>
+</a>
+
+</div>
+
 </div>
 ---
 
